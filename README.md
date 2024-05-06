@@ -1,0 +1,1 @@
+This is a basic message board app to familiarize myself with Routing and CRUD within the Express Framework. Users can navigate to the new message page and upload their messages to the main page. 
